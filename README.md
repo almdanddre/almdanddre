@@ -4,7 +4,7 @@
 - 💬 Feel free to consult and collaborate (if you wish) with my projects, which are not very complex but involve a lot of learning.
 - 📫 Contact and Profiles:
   - E-mail: anddre.almd@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/andr%C3%A9-almeida-234057187/
+  - LinkedIn: www.linkedin.com/in/andre-almd
   - ResearchGate: https://www.researchgate.net/profile/Andre-Almeida-38
   - RPubs: https://rpubs.com/anddrealmd
 
