@@ -1,6 +1,6 @@
 - 👋 Hi, I'm André. I'm a Master's Student in Computer Science.
-- 👀 I'm interested in the areas of Computer Education and Software Engineering. 
-- 🌱 While researching in Computer Education, I've been looking to learn a little more about Data Analysis and improve my knowledge in programming languages like Python and Javascript.
+- 👀 I'm interested in the areas of Computer Education, Data Analysis and Software Engineering. 
+- 🌱 While researching in Computer Education, I've been looking to learn a little more about Data Analysis and Data Science, also improving my knowledge in programming languages like Python and Javascript.
 - 💬 Feel free to consult and collaborate (if you wish) with my projects that involve a lot of learning.
 - 📫 Contact and Profiles:
   - E-mail: anddre.almd@gmail.com
