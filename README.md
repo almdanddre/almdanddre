@@ -5,9 +5,9 @@
 - 📫 Contact and Profiles:
   - E-mail: anddre.almd@gmail.com
   - LinkedIn: www.linkedin.com/in/andre-almd
-  - ResearchGate: https://www.researchgate.net/profile/Andre-Almeida-38
   - RPubs: https://rpubs.com/anddrealmd
   - Lattes: http://lattes.cnpq.br/3812670908777878
+  - ResearchGate: https://www.researchgate.net/profile/Andre-Almeida-38
 
 
 <!---
