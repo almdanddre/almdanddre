@@ -6,8 +6,9 @@
   - E-mail: anddre.almd@gmail.com
   - LinkedIn: www.linkedin.com/in/andre-almd
   - RPubs: https://rpubs.com/anddrealmd
+  - Observable: https://observablehq.com/@andrealmd
   - Lattes: http://lattes.cnpq.br/3812670908777878
-  - ResearchGate: https://www.researchgate.net/profile/Andre-Almeida-38
+  
 
 
 <!---
