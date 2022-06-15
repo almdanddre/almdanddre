@@ -3,7 +3,6 @@
 - 🌱 While researching in Computer Education, I've been looking to learn a little more about Data Analysis and Data Science, also improving my knowledge in programming languages like Python and Javascript.
 - 💬 Feel free to consult and collaborate (if you wish) with my projects that involve a lot of learning (available on RPubs and Observable as well - link below).
 - 📫 Contact and Profiles:
-  - E-mail: anddre.almd@gmail.com
   - LinkedIn: www.linkedin.com/in/andre-almd
   - RPubs: https://rpubs.com/anddrealmd
   - Observable: https://observablehq.com/@andrealmd
