@@ -7,7 +7,8 @@
   - RPubs: https://rpubs.com/anddrealmd
   - Observable: https://observablehq.com/@andrealmd
   - Lattes: http://lattes.cnpq.br/3812670908777878
-  
+- 🚧 Check out my Oracle:
+  - https://oraculo-programacao.herokuapp.com/
 
 
 <!---
